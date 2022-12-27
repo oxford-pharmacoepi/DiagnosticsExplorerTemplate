@@ -30,8 +30,9 @@ Once you have one accout you have to link it with your r session: https://shiny.
 For this step you previously had to connect your R session to shinyapps.io
 
 1. Click the publish icon on the top-right of the local shiny app.
-2. Select all the files (by deafult everything is selected).
-3. Choose an appropiate name and click: deploy.
-4.   
-
+2. It may ask you to update some packages, if it is the case, click yes.
+3. Select all the files (by deafult everything is selected) and click: Publish.
+4. A new tab (Deploy) next to Console and Terminal will appear. You don't have to do anthing, just wait till the process is finished.
+5. The process will be finished when in the Deploy tab shows the following message: 'Application successfully deployed to https://xxxxx.shinyapps.io/xxxxx'
+6. Automatically the deployed shinyapp will be opened in your default browser.
 
