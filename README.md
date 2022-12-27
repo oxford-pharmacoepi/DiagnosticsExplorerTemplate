@@ -18,6 +18,7 @@ Once you have one accout you have to link it with your r session: https://shiny.
 4. You can take a look to the local shiny app.
 
 For the next step you previously had to connect your R session to shinyapps.io
+
 5. To deploy this shiny appp to shinyapps.io you have to:
    - Click the publish icon on the top-right of the local shiny app.
    - Select all the files (by deafult everything is selected).
