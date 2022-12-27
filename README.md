@@ -22,7 +22,7 @@ Once you have one accout you have to link it with your r session: https://shiny.
    - renv::restore()
    - y (to accept all the packages that are needed to install, this step can take several minutes)
 4. Run the local shiny app
-   - shiny::app()
+   - shiny::runApp()
 5. Youre local shiny app is ready!
 
 ## Deploy the shiny app to shinyapps.io
