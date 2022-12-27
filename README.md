@@ -1,1 +1,1 @@
-# DiagnosticsExplorerTemplate
+# CohortDiagnosticsShiny
