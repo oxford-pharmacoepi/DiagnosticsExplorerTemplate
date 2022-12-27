@@ -16,13 +16,14 @@ Once you have one accout you have to link it with your r session: https://shiny.
 
 ## To run the local version of the shiny app:
 1. Put the resultant 'PreMerged.RData' file in data folder.
-2. Load all the necessary libraries using renv.
+2. Open the project in the R session ('CohortDiagnosticsShiny.Rproj')
+3. Load all the necessary libraries using renv.
    - renv::activate()
    - renv::restore()
    - y (to accept all the packages that are needed to install, this step can take several minutes)
-3. Run the local shiny app
+4. Run the local shiny app
    - shiny::app()
-4. You can take a look to the local shiny app.
+5. Youre local shiny app is ready!
 
 ## Deploy the shiny app to shinyapps.io
 
